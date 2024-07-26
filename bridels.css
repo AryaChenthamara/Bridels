@@ -1,0 +1,165 @@
+.navlogo{
+    color: black;
+    font-weight: bold;
+    font-family: Edwardian Script ITC;
+    font-size: 26px !important;
+    
+}
+.bride{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.meanu{
+    padding-right: 70px;
+    font-size: 18px;
+}
+.boxx{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 30px;
+    height: 600px;
+}
+
+
+.naverow{
+    background-color:whitesmoke;
+    height: 50px;
+}
+.navkhyuyu{
+    background-color:whitesmoke;
+    height: 50px;
+
+}
+.line{
+    height: 1px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 350px;
+    margin-left: 50px;
+
+}
+
+.btn1{
+    background-color:antiquewhite;
+    border-color:palevioletred;
+    padding: 8px;
+
+}
+.btn2{
+    border-color:palevioletred;
+    padding: 8px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.yyyy{
+    background-color: whitesmoke;
+    height: 300px;
+}
+.head2{
+    text-align: center;
+}
+.para2{
+    text-align: center;
+
+}
+.box2{
+    background-image: url(back.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icons{
+    background-color: palevioletred;
+    border-radius: 50%;
+    font-size: 30px;
+    padding: 15px 20px;
+}
+.poiuty{
+    text-align: center;
+}
+.back{
+    background-color:rgb(22, 22, 22);
+    height: 450px;
+}
+.qwerty{
+    color: white;
+    text-align: center;
+}
+.btn3{
+    background-color:antiquewhite;
+    border-color:palevioletred;
+    padding: 8px;
+}
+.white{
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+.bjghtyio{
+    /* background-color: aqua; */
+    height: 230px;
+    width: 200px;
+    margin-top: 20px;
+}
+.picbride{
+    margin-top: 20px;
+}
+.nmrrr{
+    text-align: center;
+    padding-top: 20px;
+}
+.iutrgf{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+
+}
+.lkgftr{
+    color: black;
+    text-align: center;
+}
+.offwhite{
+    background-color:whitesmoke;
+    height: 270px;
+}
+.ktrdfs{
+    font-size: 20px;
+    text-align: center;
+
+}
+.pobvdtr{
+    text-align: center;
+    margin-left: 530px;
+}
+.bjddg{
+    margin-left: 600px;
+    
+}
+.inbox1{
+    margin: 14px;
+    padding-top: 160px;
+    padding-left: 50px;
+}
+.inbox{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 35px;
+
+}
+.sec3{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 40px;
+}
+.pink{
+   
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
